@@ -90,10 +90,10 @@ $conn->close();
 <body>
     <h1>Student Registration Form</h1>
     <form action="register.php" method="POST">
-        <label for="name">Name:</label>
+        <label for="email">email:</label>
         <input type="text" id="name" name="name" required><br><br>
 
-        <label for="email">Email:</label>
+        <label for="address">address:</label>
         <input type="email" id="email" name="email" required><br><br>
 
         <label for="student_id">Student ID:</label>
