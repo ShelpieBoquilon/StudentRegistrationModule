@@ -88,7 +88,7 @@ $conn->close();
     </style>
 </head>
 <body>
-    <h1>Student Registration Form</h1>
+    <h1>Student Information Management Form</h1>
     <form action="register.php" method="POST">
         <label for="email">email:</label>
         <input type="text" id="name" name="name" required><br><br>
